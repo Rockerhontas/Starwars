@@ -1,4 +1,4 @@
-# mimi
+# Star Wars Names Archiv 
 
 ## Project setup
 ```
